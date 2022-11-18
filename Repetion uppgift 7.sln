@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Repetion uppgift 7", "Repetion uppgift 7\Repetion uppgift 7.pyproj", "{AECDCBC3-659B-40E2-BB1E-655C1253E1E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AECDCBC3-659B-40E2-BB1E-655C1253E1E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AECDCBC3-659B-40E2-BB1E-655C1253E1E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33AB7F9F-4DC2-464B-9D4F-166A7B7C01CD}
+	EndGlobalSection
+EndGlobal
